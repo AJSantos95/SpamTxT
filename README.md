@@ -9,7 +9,7 @@ FRASE = FRASE.STRIP() - para remover espaços ou quebras de linha.
 Code Example:
 with open('repetir.txt', encoding='utf8') as texto:
     for frase in texto:
-        FRASE = frase.strip() <-- Alteração efetuada ||
+        frase = frase.strip() <-- Alteração efetuada ||
           for _ in range(X):
               pyautogui.typewrite(frase)
               pyautogui.press('enter')

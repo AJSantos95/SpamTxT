@@ -1,0 +1,5 @@
+O texto que quer que seja repetido.
+
+//////////////////////////////// SE QUISER PODE USAR:
+FRASE = FRASE.STRIP() - para remover espaços ou quebras de linha.
+//////////////////////////////// 
